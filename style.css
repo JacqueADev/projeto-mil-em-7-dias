@@ -6,7 +6,6 @@
     box-sizing: border-box;
 }
 
-
 .logo-mario{
     height: 200px;
 }
@@ -31,6 +30,7 @@ button{
 body{
     
     height: 100vh;
+    overflow: hidden;
     
 }
 
@@ -83,7 +83,7 @@ video{
     display: flex;
     align-items: center;
     gap: 30px;
-    margin: 30px ;
+    margin: 30px;
 
 
 }
